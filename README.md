@@ -6,4 +6,4 @@ The IDE or tools that I will be using are PyCharm and Jupyter Notebook, so the f
 
 * [**Python Exercises**](https://github.com/AmandeepSinghDhalla/Python-Learning/tree/Python-Exercises)- This sub-branch contains different types of exercises along with their solution which will be helpful in sharpening the programming skills. 👨‍💻
 * [**Python Projects**](https://github.com/AmandeepSinghDhalla/Python-Learning/tree/Python-Projects)- This sub-branch has different python projects that I have worked on, either with a team, by myself or during any hackathon or competitions.
-* [**Notes**]()- In the notes sub-branch, I will be sharing my notes and notebooks or python files, related to different topics in python. 
+* [**Notes**](https://github.com/AmandeepSinghDhalla/Python-Learning/tree/Notes)- In the notes sub-branch, I will be sharing my notes and notebooks or python files, related to different topics in python. 

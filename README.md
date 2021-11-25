@@ -1,6 +1,6 @@
 ![](https://i.ytimg.com/vi/ODjFDZC_TyA/maxresdefault.jpg)
 
-Welcome to the python exercises repository. Here you will find different types of small and large, easy and hard python exercises that you can use to enhance your coding skills. A breif description about each exercise here is given below:
+**Welcome to the python exercises repository**. Here you will find different types of small and large, easy and hard python exercises that you can use to enhance your coding skills. A breif description about each exercise here is given below:
 
 ### Rock Paper Scissor- 
 Everyone knows about the famous rock-paper-scissors game ✊✋✌️. Two players play to determine who is the goat in this game. For this problem, you have to write the code to create this game where the player will play with the computer 10 times. At the end of the game, you have to show who won the game along with the score. Also show if there is a graw between the players. You can find my code to this problem [here](https://github.com/AmandeepSinghDhalla/Python-Learning/blob/Python-Exercises/rockpaperscissor.py)👈.
